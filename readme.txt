@@ -1,6 +1,6 @@
-Name: Arman Aryanpour
-ID: 180825150
-Email: arya5150@mylaurier.ca
+Name: ???
+ID: ???
+Email: ???
 WorkID: CP476-a1
 Statement: I claim that the enclosed submission is my individual work.
 
@@ -40,8 +40,7 @@ Q2.1 DTD bookshelf.dtd                    [10/10/*]
 Q2.2 XML mybookshelf.xml                  [10/10/*]
 Q2.3 CSS bookshelf.css                    [5/5/*]
 Q2.4 XML & DTD validation                 [5/5/*]
-Q2.5 XSLT bookshelf.xsl                   [5/5/*]
-Q2.6 XSD bookshelf.xsd                    [5/5/*]
+Q2.5 XSD bookshelf.xsd and validation     [10/10/*]
 
 Q3 JSON course project
 Q3.1 JSON scheme course_schema.json       [10/10/*]
