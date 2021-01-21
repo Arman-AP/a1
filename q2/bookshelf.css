@@ -1,0 +1,8 @@
+bookshelf {
+  color: black;
+  display: flex;
+  flex-direction: column;
+}
+book {
+  padding: 10px;
+}

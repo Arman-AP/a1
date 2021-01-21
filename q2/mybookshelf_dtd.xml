@@ -1,0 +1,47 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/css"  href = "bookshelf.css" ?>
+
+<!DOCTYPE bookshelf [
+<!ELEMENT bookshelf (book+)>
+
+<!ELEMENT book (author,title,publisher,publishdate,description,
+                location)>
+
+<!ELEMENT author (#PCDATA)>
+
+<!ELEMENT title (#PCDATA)>
+
+<!ELEMENT publisher (#PCDATA)>
+
+<!ELEMENT publishdate (#PCDATA)>
+
+<!ELEMENT description (#PCDATA)>
+
+<!ELEMENT location (#PCDATA)>
+] >
+
+<bookshelf>
+<book>
+ <author>Arman Arya</author>
+ <title>Programming</title>
+ <publisher>Bayview</publisher>
+ <publishdate>2021</publishdate>
+ <description>copies the entire screen to the clipboard</description>
+ <location>USA</location> 
+</book>
+<book>
+ <author>Arman Arya</author>
+ <title>Programming</title>
+ <publisher>Bayview</publisher>
+ <publishdate>2019</publishdate>
+ <description>copies the entire screen to the clipboard</description>
+ <location>USA</location> 
+</book><book>
+ <author>Arman Arya</author>
+ <title>Programming</title>
+ <publisher>Bayview</publisher>
+ <publishdate>2009</publishdate>
+ <description>copies the entire screen to the clipboard</description>
+ <location>USA</location> 
+</book>
+</bookshelf>

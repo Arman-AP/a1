@@ -1,0 +1,31 @@
+<?xml version = "1.0"?>
+
+<bookshelf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="mybookshelf.xsd">
+
+
+<book>
+ <author>Arman Arya</author>
+ <title>Programming</title>
+ <publisher>Bayview</publisher>
+ <publishdate>2021</publishdate>
+ <description>copies the entire screen to the clipboard</description>
+ <location>USA</location> 
+</book>
+<book>
+ <author>Arman Arya</author>
+ <title>Programming</title>
+ <publisher>Bayview</publisher>
+ <publishdate>2019</publishdate>
+ <description>copies the entire screen to the clipboard</description>
+ <location>USA</location> 
+</book>
+<book>
+ <author>Arman Arya</author>
+ <title>Programming</title>
+ <publisher>Bayview</publisher>
+ <publishdate>2009</publishdate>
+ <description>copies the entire screen to the clipboard</description>
+ <location>USA</location> 
+</book>
+</bookshelf>

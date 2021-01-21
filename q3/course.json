@@ -1,0 +1,19 @@
+{
+  "code": "CP476",
+  "description": "The architecture of the Internet. Client-server programming, technologies of the web (URLs, HTML, HTTP, applets, etc.) Introduction to building web applications and server-side programming.",
+  "title": "Internet Computing",
+  "prerequisite": [
+    {
+      "code": "CP363",
+      "title": "Database I",
+      "description": "Introduction to database systems. Topics include data models, query languages, database design, recovery and concurrency, integrity and security.      ",
+      "prerequisite": []
+    },
+    {
+      "code": "CP372",
+      "title": "Computer Networks",
+      "description": "Introduction to computer communication networks. The OSI reference model. Protocols for error and flow control, medium access protocols, routing and congestion control. Internet architecture and protocols and Unix network programming.",
+      "prerequisite": []
+    }
+  ]
+}
