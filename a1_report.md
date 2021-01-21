@@ -55,7 +55,7 @@ Complete (Yes/No)? **yes**
 
 If Yes, include (link) the screen shot image as following using `![image caption](images/demo.png)` to prove completion, and/or add a link to the question solution if applicable.
 
-![T2.1](images/t3-1.png)
+![T3.1](images/t3-1.png)
 
 ### T3.2 XML & XSL & XSD
 
@@ -63,7 +63,7 @@ Complete (Yes/No)? **yes**
 
 If Yes, include (link) the screen shot image as following using `![image caption](images/demo.png)` to prove completion, and/or add a link to the question solution if applicable.
 
-![T2.2](images/t3-2.png)
+![T3.2](images/t3-2.png)
 
 ### T3.3 JSON
 
@@ -72,7 +72,7 @@ Complete (Yes/No)? **yes**
 If Yes, include (link) the screen shot image as following using `![image caption](images/demo.png)` to prove completion, and/or add a link to the question solution if applicable.
 
 ![T3.3](images/t3-3.png)
-![T3.3](images/t3-3-2.png)
+![T3.3 v2](images/t3-3-2.png)
 
 ## Q1 HTML & CSS project
 

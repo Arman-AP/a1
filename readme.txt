@@ -1,6 +1,6 @@
-Name: ???
-ID: ???
-Email: ???
+Name: Arman Aryanpour
+ID: 180825150
+Email: arya5150@mylaurier.ca
 WorkID: CP476-a1
 Statement: I claim that the enclosed submission is my individual work.
 
